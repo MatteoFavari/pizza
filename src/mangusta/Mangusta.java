@@ -17,6 +17,7 @@ public class Mangusta {
     public static void main(String[] args) {
         // TODO code application logic here
         //Marco carico il primo commit
+        //Marco carico il secondo commit
     }
     
 }
